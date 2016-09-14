@@ -20,9 +20,13 @@ div {
 div div {
     width: 1%;
     height: 2%;
-    outline: 1px solid #fff;
     float: left;
     background: black;
+}
+
+.box {
+  padding: 0px;
+  margin: 0px;
 }
 
 .white {
